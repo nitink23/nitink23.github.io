@@ -1,0 +1,17 @@
+.image{
+    height: auto;
+    width: 50pc;
+    border: 10px solid transparent;
+    padding: 15px;
+    border-image: url(border.png) 30 round;
+}
+body{
+    text-align: center;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    color: azure;
+}
+body{
+    background-color: black;
+}
